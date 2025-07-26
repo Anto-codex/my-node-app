@@ -54,7 +54,7 @@ A simple Node.js API built with Express, tested using Jest \& Supertest, contain
 
 
 
-\## 📁 Project Structure
+
 
 
 
